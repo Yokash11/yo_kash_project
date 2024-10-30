@@ -1,0 +1,2 @@
+1 - Removed Security Group "yo_kash_projetc_fresh_Test_1" - /terraform/applications/sg.tf
+2 - Added ".gitignore" File - /terraform/.gitignore
