@@ -1,0 +1,2 @@
+1 - Added EC2 Instance "yo_kash_projetc_fresh_Test_1" - /terraform/applications/ec2.tf
+2 - Added "version block" and "Provider block" in main.tf - /terraform/applications/main.tf
