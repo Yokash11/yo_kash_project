@@ -1,0 +1,5 @@
+1 - Added "backend.tf" file - /terraform/applications/backend.tf
+2 - Remoed "cloud block" in "main.tf" - /terraform/applications/backend.tf
+3 - Creating "fresh.tfvars" file - /terraform/applications/environments/fresh.tfvars
+4 - Creating "working.tfvars" file - /terraform/applications/environments/working.tfvars
+5 - Created "varaible.tf" file - /terraform/applications/varaible.tf
