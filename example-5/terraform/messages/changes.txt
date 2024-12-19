@@ -1,0 +1,7 @@
+0 - Before using this example 5 clear out all old reources created in NON_PROD account via fresh, working workspaces
+1 - Creating "staging.tfvars" file - /terraform/applications/environments/staging.tfvars
+2 - Changes "ec2.tf" file - /terraform/applications/ec2.tf - ec2 will create a with a environment name which we defined in .tfvars for all 3 environments
+2 - Changes "sg.tf" file - /terraform/applications/sg.tf -- ec2 will create a with a environment name which we defined in .tfvars for all 3 environments
+
+
+
